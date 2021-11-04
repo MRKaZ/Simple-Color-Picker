@@ -27,6 +27,7 @@
 * [About](#about)
 * [Shortcuts](#shortcuts)
 * [Information](#information)
+* [Preview](#preview)
 * [Credits](#credits)
 * [License](#license)
 
@@ -48,7 +49,7 @@
   - *Clear List* **- Clear the whole color list.**
   - *Export List* **- Export the picked color list. (.txt)**
 
-**You need minimum .NET 4.6 runtime or above [Download .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).*
+**You need minimum .NET 4.6 runtime or above [Download .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).**
 
 <!-- USAGE -->
 ## Shortcuts
@@ -63,6 +64,11 @@
 <p align="center">
    <img src="https://github.com/MRKaZ/Simple-Color-Picker/blob/master/Simple%20Color%20Picker%20WinForm/preview/Information.png">
 </p>
+
+<!-- CREDITS -->
+## Preview
+https://user-images.githubusercontent.com/62284599/140408980-9143bf42-9b76-408e-98db-8d7ee783de2c.mp4
+
 
 <!-- CREDITS -->
 ## Credits
