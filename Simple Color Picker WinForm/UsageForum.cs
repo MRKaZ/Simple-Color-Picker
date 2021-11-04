@@ -22,7 +22,7 @@ namespace Simple_Color_Picker_WinForm
 
         private void linkLblLicense_LinkClicked(object sender, System.EventArgs e)
         {
-            Process.Start("https://raw.githubusercontent.com/MRKaZ/Simple-Color-Picker/main/LICENSE");
+            Process.Start("https://raw.githubusercontent.com/MRKaZ/Simple-Color-Picker/master/LICENSE");
         }
     }
 }
