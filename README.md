@@ -67,8 +67,7 @@
 
 <!-- CREDITS -->
 ## Preview
-https://user-images.githubusercontent.com/62284599/140408980-9143bf42-9b76-408e-98db-8d7ee783de2c.mp4
-
+https://user-images.githubusercontent.com/62284599/140621238-26779116-401c-414c-beb6-0a6be6c25138.mp4
 
 <!-- CREDITS -->
 ## Credits
@@ -85,4 +84,4 @@ This application built with the **Krypton by Component Factory** .NET WinForms c
 <!-- WHITESPACE -->
 <br />
 
-Distributed under the Apache License. See [`LICENSE`](https://raw.githubusercontent.com/MRKaZ/Simple-Color-Picker/master/LICENSE) for more information.
+Distributed under the GENERAL PUBLIC LICENSE (GNU). See [`LICENSE`](https://raw.githubusercontent.com/MRKaZ/Simple-Color-Picker/master/LICENSE) for more information.
